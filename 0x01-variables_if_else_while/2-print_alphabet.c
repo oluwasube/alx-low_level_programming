@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - Entry point
+ * main - Prints the alphabetic
  *
  * Return: Always 0 (Success)
  */
@@ -18,4 +18,3 @@ int main(void)
 
 	return (0);
 }
- 

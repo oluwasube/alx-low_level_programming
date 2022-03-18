@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_square - Draws a diagonal line on the terminal
+ * print_square - Write a function that prints a square, followed by a new line.
  * @size: Long of the line
  *
  * Return: none

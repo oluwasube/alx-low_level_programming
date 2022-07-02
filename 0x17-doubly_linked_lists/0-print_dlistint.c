@@ -18,6 +18,11 @@ size_t print_dlistint(const dlistint_t *h)
 		h = h->next;
 	}
 
+<<<<<<< HEAD
 	return (count);
 }
 
+=======
+	return (nodes);
+}
+>>>>>>> aa277c0e977e0eb79598b403a09f4ece07ea63a6
